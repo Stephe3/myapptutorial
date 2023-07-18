@@ -1,2 +1,2 @@
-#MyApp
-This is my app
+#Tutorial project
+A tutorial project in order to understand the basics of github!
